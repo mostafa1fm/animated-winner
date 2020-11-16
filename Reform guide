@@ -1,0 +1,3 @@
+git remote add origin https://github.com/mostafa1fm/animated-winner.git
+git branch -M Shobeh
+git push -u origin Shobeh
